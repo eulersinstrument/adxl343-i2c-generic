@@ -8,6 +8,7 @@ repository = "https://github.com/eulersinstrument/adxl343-i2c-generic.git"
 readme = "README.md"
 
 [lib]
+path = "src/lib.rs"
 doctest = false
 
 [dependencies]
